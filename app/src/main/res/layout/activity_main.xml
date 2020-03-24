@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="25dp"
+    android:background="@drawable/bground1"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/bgroun1_textId"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bground1_text"
+        android:textColor="#FEFBFC"
+        android:textStyle="bold"
+        android:fontFamily="casual"
+        android:textSize="70sp"
+        />
+
+    <Button
+        android:id="@+id/bground1ButtonId"
+        android:layout_below="@id/bgroun1_textId"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginRight="20dp"
+        android:textStyle="bold"
+        android:textColor="#FEFBFC"
+        android:textSize="22sp"
+        android:background="@drawable/button_bground1"
+        android:textAllCaps="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Let's start" />
+
+
+</RelativeLayout>

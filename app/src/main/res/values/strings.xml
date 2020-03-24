@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="bground1_text">Welcome To Converter</string>
+    <string name="bground2_text">Pick your conversion type : </string>
+    <string name="editTextHint">Enter the amount to convert </string>
+
+    <string name="disOption1">Meter to Mile </string>
+    <string name="disOption2">Meter to Foot </string>
+    <string name="disOption3">Meter to Inch </string>
+    <string name="disOption4">Mile to Foot </string>
+    <string name="disOption5">Mile to Inch </string>
+
+    <string name="weiOption1">Grams to Ounces </string>
+    <string name="weiOption2">Grams to Pounds </string>
+    <string name="weiOption3">Grams to Tons </string>
+    <string name="weiOption4">Pounds to Tons </string>
+    <string name="weiOption5">Pounds to Ounces  </string>
+
+    <string name="curOption1">Dollar to Taka  </string>
+    <string name="curOption2">Rupee to Taka  </string>
+    <string name="curOption3">Pound to Taka  </string>
+    <string name="curOption4">Rupee to Dollar  </string>
+    <string name="curOption5">Rupee to Pound  </string>
+
+</resources>
